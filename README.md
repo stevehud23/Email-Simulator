@@ -12,9 +12,21 @@ Table of Contents:
 3. Class Documentation
     3.1. EmailSimulatorApp
     3.2. Email
-
+   
 1. Introduction:
 ----------------
+BEFORE RUNNING THIS APP PLEASE INSTALL TH FOLLOWING:
+IN TERMINAL POWERSHELL, CMD, BASH etc
+
+PIP:
+pip install pip (may require update)
+
+TKINTER:
+pip install tkinter
+
+PILLOW:
+pip install pillow
+
 The OOP Email Simulator is a simple application that simulates an email inbox and provides various operations such as viewing emails, marking emails as read, deleting emails, and running another script. The application is built using the Tkinter library in Python and follows the object-oriented programming (OOP) paradigm.
 
 ---------
